@@ -1,4 +1,5 @@
-![banner](https://user-images.githubusercontent.com/79051368/127222351-73d7581d-3af6-4bd3-8e85-90f3aa91da70.png)
+![banner-github](https://user-images.githubusercontent.com/79051368/127224843-6a122d57-d39c-41c5-8104-d7249567b5b2.png)
+
 <h1 align="center">❤️ Welcome to my GitHub Profile!</h1>
 <h3 align="center">A passionate Frontend Developer.</h3>
  <img src="https://media.giphy.com/media/NgurY1o4z080Jfoyzw/giphy.gif" align="right" height="250px" width="250px" alt="coding-img">
