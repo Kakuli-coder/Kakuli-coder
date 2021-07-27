@@ -1,6 +1,7 @@
 <h1 align="center">❤️ Welcome to my GitHub Profile!</h1>
-<h3 align="center">A passionate Frontend Developer learning the MERN stack. App Development and Competitive Coding also interest me.</h3>
-
+<h3 align="center">A passionate Frontend Developer.</h3>
+ <img src="https://media.giphy.com/media/NgurY1o4z080Jfoyzw/giphy.gif" alt="coding-img">
+ 
 - 👩‍💻 I’m currently learning **BootStrap**
 
 - 📝 Read interesting articles here [https://medium.com/@kakulibasu82](https://medium.com/@kakulibasu82)
