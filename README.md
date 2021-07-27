@@ -1,15 +1,13 @@
 <h1 align="center">❤️ Welcome to my GitHub Profile!</h1>
 <h3 align="center">A passionate Frontend Developer.</h3>
- 
+ <img src="https://media.giphy.com/media/NgurY1o4z080Jfoyzw/giphy.gif" align="right" height="250px" width="250px" alt="coding-img">
 - 👩‍💻 I’m currently learning **BootStrap**
 
 - 📝 Read interesting articles here [https://medium.com/@kakulibasu82](https://medium.com/@kakulibasu82)
 
 - 📧 Get in touch **kakulibasu82@gmail.com**
 
-- 📗 Want to take a break, go here [https://www.yourquote.in/kakuli-7dl/quotes](https://www.yourquote.in/kakuli-7dl/quote
-
-<img src="https://media.giphy.com/media/NgurY1o4z080Jfoyzw/giphy.gif" float="right" alt="coding-img">
+- 📗 Take a break and read my quotes [https://www.yourquote.in/kakuli-7dl/quotes](https://www.yourquote.in/kakuli-7dl/quote
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
