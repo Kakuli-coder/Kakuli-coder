@@ -2,8 +2,8 @@
 
 <h1 align="center">❤️ Welcome to my GitHub Profile!</h1>
 <h3 align="center">A passionate Frontend Developer.</h3>
- <img src="https://media.giphy.com/media/NgurY1o4z080Jfoyzw/giphy.gif" align="right" height="250px" width="250px" alt="coding-img">
-- 👩‍💻 I’m currently learning **BootStrap**
+<img src="https://user-images.githubusercontent.com/79051368/128897328-4992dbf0-fdd6-4a27-8feb-de17367c9ade.png" height="250px" width="350px" align="right" alt="women-web-developer-with-laptop-img">
+- 👩‍💻 I’m currently learning <strong>BootStrap</strong>
 
 - 📝 Read interesting articles here [https://medium.com/@kakulibasu82](https://medium.com/@kakulibasu82)
 
