@@ -4,11 +4,11 @@
 <h3 align="center">A passionate Frontend Developer.</h3>
 <img src="https://user-images.githubusercontent.com/79051368/128897328-4992dbf0-fdd6-4a27-8feb-de17367c9ade.png" height="250px" width="350px" align="right" alt="women-web-developer-with-laptop-img">
 
-- 📝 Read interesting articles here [https://medium.com/@kakulibasu82](https://medium.com/@kakulibasu82)
+- 📝 Read interesting [Blog Articles](https://medium.com/@kakulibasu82)
 
 - 📧 Get in touch **kakulibasu82@gmail.com**
 
-- 📗 Take a break and read my quotes [https://www.yourquote.in/kakuli-7dl/quotes](https://www.yourquote.in/kakuli-7dl/quote
+- 📗 Take a break and read [My Quotes](https://www.yourquote.in/kakuli-7dl/quote)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
